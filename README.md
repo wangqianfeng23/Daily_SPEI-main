@@ -1,1 +1,2 @@
 # Daily_SPEI-main
+Here is the core source code for our  SPEI (generalized extreme value distribution). This code is an example of the algorithm on the cell point. "main.py" is the main code. "prepet031_394.csv" is the input data for calculating SPEI.  "SPEI031_394.csv" are SPEI data output by the sample code for user inspection and comparison. Users can apply this source code to other cells and sites as needed and batch calculate daily SPEI datasets for site or raster.
